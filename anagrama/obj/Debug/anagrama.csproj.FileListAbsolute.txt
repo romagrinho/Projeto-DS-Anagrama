@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.exe.config
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.exe
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.pdb
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_configuracoes.resources
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fase.resources
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_menu.resources
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_pause.resources
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.Properties.Resources.resources
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.GenerateResource.cache
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.exe
+C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.pdb
