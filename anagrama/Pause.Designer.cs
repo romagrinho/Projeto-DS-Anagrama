@@ -30,8 +30,7 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.lbl_pausa = new System.Windows.Forms.Label();
-            this.btn_start = new System.Windows.Forms.Button();
-            this.btn_config = new System.Windows.Forms.Button();
+            this.btn_voltar = new System.Windows.Forms.Button();
             this.btn_sair = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -56,38 +55,29 @@
             this.lbl_pausa.TabIndex = 1;
             this.lbl_pausa.Text = "Pausa";
             // 
-            // btn_start
+            // btn_voltar
             // 
-            this.btn_start.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.btn_start.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btn_start.Location = new System.Drawing.Point(373, 124);
-            this.btn_start.Name = "btn_start";
-            this.btn_start.Size = new System.Drawing.Size(279, 65);
-            this.btn_start.TabIndex = 2;
-            this.btn_start.Text = "Começar";
-            this.btn_start.UseVisualStyleBackColor = false;
-            // 
-            // btn_config
-            // 
-            this.btn_config.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.btn_config.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btn_config.Location = new System.Drawing.Point(373, 227);
-            this.btn_config.Name = "btn_config";
-            this.btn_config.Size = new System.Drawing.Size(279, 65);
-            this.btn_config.TabIndex = 3;
-            this.btn_config.Text = "Configurações";
-            this.btn_config.UseVisualStyleBackColor = false;
+            this.btn_voltar.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.btn_voltar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btn_voltar.Location = new System.Drawing.Point(373, 173);
+            this.btn_voltar.Name = "btn_voltar";
+            this.btn_voltar.Size = new System.Drawing.Size(279, 65);
+            this.btn_voltar.TabIndex = 2;
+            this.btn_voltar.Text = "Voltar";
+            this.btn_voltar.UseVisualStyleBackColor = false;
+            this.btn_voltar.Click += new System.EventHandler(this.Btn_voltar_Click);
             // 
             // btn_sair
             // 
             this.btn_sair.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.btn_sair.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btn_sair.Location = new System.Drawing.Point(373, 332);
+            this.btn_sair.Location = new System.Drawing.Point(373, 270);
             this.btn_sair.Name = "btn_sair";
             this.btn_sair.Size = new System.Drawing.Size(279, 65);
             this.btn_sair.TabIndex = 4;
             this.btn_sair.Text = "Sair";
             this.btn_sair.UseVisualStyleBackColor = false;
+            this.btn_sair.Click += new System.EventHandler(this.Btn_sair_Click);
             // 
             // frm_pause
             // 
@@ -96,8 +86,7 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(24)))), ((int)(((byte)(24)))));
             this.ClientSize = new System.Drawing.Size(1005, 474);
             this.Controls.Add(this.btn_sair);
-            this.Controls.Add(this.btn_config);
-            this.Controls.Add(this.btn_start);
+            this.Controls.Add(this.btn_voltar);
             this.Controls.Add(this.lbl_pausa);
             this.Controls.Add(this.label1);
             this.Name = "frm_pause";
@@ -111,8 +100,7 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lbl_pausa;
-        private System.Windows.Forms.Button btn_start;
-        private System.Windows.Forms.Button btn_config;
+        private System.Windows.Forms.Button btn_voltar;
         private System.Windows.Forms.Button btn_sair;
     }
 }

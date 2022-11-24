@@ -12,3 +12,142 @@ C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.G
 C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.CoreCompileInputs.cache
 C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.exe
 C:\Users\USER\Documents\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.pdb
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.exe.config
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.exe
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.pdb
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csprojAssemblyReference.cache
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_configuracoes.resources
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_menu.resources
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_pause.resources
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.Properties.Resources.resources
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.GenerateResource.cache
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.CoreCompileInputs.cache
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.exe
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.pdb
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasedificil.resources
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasemedio.resources
+F:\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasefacil.resources
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.exe.config
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.exe
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.pdb
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csprojAssemblyReference.cache
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_configuracoes.resources
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasedificil.resources
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasemedio.resources
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasefacil.resources
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_menu.resources
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_pause.resources
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.Properties.Resources.resources
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.GenerateResource.cache
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.CoreCompileInputs.cache
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.exe
+C:\Users\otavio_22217\OneDrive - Etec Centro Paula Souza\Desktop\DS 1\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.pdb
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.AssemblyReference.cache
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.SuggestedBindingRedirects.cache
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_configuracoes.resources
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasedificil.resources
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasemedio.resources
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasefacil.resources
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_menu.resources
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_pause.resources
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.Properties.Resources.resources
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.GenerateResource.cache
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.CoreCompileInputs.cache
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.exe
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.pdb
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.exe.config
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.exe
+C:\Users\UsaxH\OneDrive\Área de Trabalho\Projeto-DS\PROJETO DS\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.pdb
+C:\Users\aluno\Desktop\anagrama\anagrama\bin\Debug\anagrama.exe.config
+C:\Users\aluno\Desktop\anagrama\anagrama\bin\Debug\anagrama.exe
+C:\Users\aluno\Desktop\anagrama\anagrama\bin\Debug\anagrama.pdb
+C:\Users\aluno\Desktop\anagrama\anagrama\obj\Debug\anagrama.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\anagrama\anagrama\obj\Debug\anagrama.frm_configuracoes.resources
+C:\Users\aluno\Desktop\anagrama\anagrama\obj\Debug\anagrama.frm_fasedificil.resources
+C:\Users\aluno\Desktop\anagrama\anagrama\obj\Debug\anagrama.frm_fasemedio.resources
+C:\Users\aluno\Desktop\anagrama\anagrama\obj\Debug\anagrama.frm_fasefacil.resources
+C:\Users\aluno\Desktop\anagrama\anagrama\obj\Debug\anagrama.frm_menu.resources
+C:\Users\aluno\Desktop\anagrama\anagrama\obj\Debug\anagrama.frm_pause.resources
+C:\Users\aluno\Desktop\anagrama\anagrama\obj\Debug\anagrama.Properties.Resources.resources
+C:\Users\aluno\Desktop\anagrama\anagrama\obj\Debug\anagrama.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\anagrama\anagrama\obj\Debug\anagrama.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\anagrama\anagrama\obj\Debug\anagrama.exe
+C:\Users\aluno\Desktop\anagrama\anagrama\obj\Debug\anagrama.pdb
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.AssemblyReference.cache
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.SuggestedBindingRedirects.cache
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_configuracoes.resources
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasedificil.resources
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasemedio.resources
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasefacil.resources
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_menu.resources
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_pause.resources
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.Properties.Resources.resources
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.GenerateResource.cache
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.CoreCompileInputs.cache
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.exe
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.pdb
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.exe.config
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.exe
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.pdb
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\BouncyCastle.Crypto.dll
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\Google.Protobuf.dll
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\K4os.Compression.LZ4.dll
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\K4os.Hash.xxHash.dll
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\MySql.Data.dll
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Buffers.dll
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Memory.dll
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Numerics.Vectors.dll
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\ZstdNet.dll
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\BouncyCastle.Crypto.xml
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\Google.Protobuf.pdb
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\Google.Protobuf.xml
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\K4os.Compression.LZ4.xml
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\K4os.Hash.xxHash.xml
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\MySql.Data.xml
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Buffers.xml
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Memory.xml
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Numerics.Vectors.xml
+H:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.CopyComplete
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.exe.config
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.exe
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\anagrama.pdb
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\BouncyCastle.Crypto.dll
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\Google.Protobuf.dll
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\K4os.Compression.LZ4.dll
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\K4os.Hash.xxHash.dll
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\MySql.Data.dll
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Buffers.dll
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Memory.dll
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Numerics.Vectors.dll
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\ZstdNet.dll
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\BouncyCastle.Crypto.xml
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\Google.Protobuf.pdb
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\Google.Protobuf.xml
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\K4os.Compression.LZ4.xml
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\K4os.Hash.xxHash.xml
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\MySql.Data.xml
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Buffers.xml
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Memory.xml
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Numerics.Vectors.xml
+F:\DS 1\PROJETO DS\anagrama\anagrama\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csprojAssemblyReference.cache
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_configuracoes.resources
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasedificil.resources
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasemedio.resources
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_fasefacil.resources
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_menu.resources
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_pause.resources
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.Properties.Resources.resources
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.GenerateResource.cache
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.CoreCompileInputs.cache
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.csproj.CopyComplete
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.exe
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.pdb
+F:\DS 1\PROJETO DS\anagrama\anagrama\obj\Debug\anagrama.frm_proxnivel.resources
