@@ -1,39 +1,32 @@
 ﻿using anagrama.DAO;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using System.Diagnostics;
+using System.Linq;
+using System.Windows.Forms;
 
 namespace anagrama
 {
 
     public partial class frm_fasemedio : Form
     {
-        private PalavraDAO dao;
-        private Stopwatch stopWatch;
+        private PalavraDAO dao;       
+        int counter = 0;
 
-        public frm_fasemedio() 
+        public frm_fasemedio()
         {
             InitializeComponent();
             dao = new PalavraDAO();
-        }   
+            lblContador.Text = $"Palavras descobertas: {counter}";
+        }
         private void frm_fasemedio_Load(object sender, EventArgs e)
         {
-            stopWatch = new Stopwatch();
-            stopWatch.Start();
+            
         }
         private void Btn_pause_Click(object sender, EventArgs e)
         {
             frm_pause frmpause = new frm_pause();
             frmpause.Show();
-        }      
+        }
 
         private void tempo_Tick(object sender, EventArgs e)
         {
@@ -54,34 +47,44 @@ namespace anagrama
                 {
                     case "AMOR":
                         lblAmor.Text = "AMOR";
+                        counter++;
                         break;
                     case "ROMA":
                         lblRoma.Text = "ROMA";
+                        counter++;
                         break;
                     case "ROMÃ":
                         lblRomã.Text = "ROMÃ";
+                        counter++;
                         break;
                     case "ROMANO":
                         lblRomano.Text = "ROMANO";
+                        counter++;
                         break;
                     case "AMORA":
                         lblAmora.Text = "AMORA";
+                        counter++;
                         break;
                     case "NAMORA":
                         lblNamora.Text = "NAMORA";
+                        counter++;
                         break;
                     case "ADORA":
                         lblAdora.Text = "ADORA";
+                        counter++;
                         break;
                     case "MORNO":
                         lblMorno.Text = "MORNO";
+                        counter++;
                         break;
                     case "MORNA":
                         lblMorna.Text = "MORNA";
+                        counter++;
                         break;
                     case "RAMO":
                         lblRamo.Text = "RAMO";
-                        break; 
+                        counter++;
+                        break;
                     default:
                         break;
                 }
@@ -97,8 +100,13 @@ namespace anagrama
         }
 
         private void timer1_Tick(object sender, EventArgs e)
-        {           
-            this.lbl_Cronometro.Text = string.Format("{0:mm\\:ss}", stopWatch.Elapsed);
+        {
+            
+        }
+
+        private void lblContador_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,28 +1,22 @@
 ﻿using anagrama.DAO;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using System.Diagnostics;
+using System.Linq;
+using System.Windows.Forms;
 
 namespace anagrama
 {
 
     public partial class frm_fasedificil : Form
     {
-        private PalavraDAO dao;
-        private Stopwatch stopWatch;
+        private PalavraDAO dao;        
+        int counter = 0;
 
         public frm_fasedificil()
         {
             InitializeComponent();
             dao = new PalavraDAO();
+            lblContador.Text = $"Palavras descobertas: {counter}";
         }
 
         private void Btn_pause_Click(object sender, EventArgs e)
@@ -31,7 +25,7 @@ namespace anagrama
             frmpause.Show();
         }
 
- 
+
         private void TxtAnagrama_TextChanged_1(object sender, EventArgs e)
         {
             tmrPesquisa.Enabled = false;
@@ -45,48 +39,63 @@ namespace anagrama
                 {
                     case "ZOO":
                         lblZoo.Text = "ZOO";
+                        counter++;
                         break;
                     case "ÓDIO":
                         lblOdio.Text = "ÓDIO";
+                        counter++;
                         break;
                     case "CHÁ":
                         lblCha.Text = "CHÁ";
+                        counter++;
                         break;
                     case "OCA":
                         lblOca.Text = "OCA";
+                        counter++;
                         break;
                     case "OCO":
                         lblOco.Text = "OCO";
+                        counter++;
                         break;
                     case "CIO":
                         lblCio.Text = "CIO";
+                        counter++;
                         break;
                     case "NOA":
                         lblNoa.Text = "NOA";
+                        counter++;
                         break;
                     case "DICA":
                         lblDica.Text = "DICA";
+                        counter++;
                         break;
                     case "DOCA":
                         lblDoca.Text = "DOCA";
+                        counter++;
                         break;
                     case "DONA":
                         lblDona.Text = "DONA";
+                        counter++;
                         break;
                     case "DONO":
                         lblDono.Text = "DONO";
+                        counter++;
                         break;
                     case "ZINCO":
                         lblZinco.Text = "ZINCO";
+                        counter++;
                         break;
                     case "CANHO":
                         lblCanho.Text = "CANHO";
+                        counter++;
                         break;
                     case "COZINHA":
                         lblCozinha.Text = "COZINHA";
+                        counter++;
                         break;
                     case "COZINHADO":
                         lblCozinhado.Text = "COZINHADO";
+                        counter++;
                         break;
                     default:
                         break;
@@ -106,6 +115,11 @@ namespace anagrama
         {
             tmrPesquisa.Enabled = false;
             //Executa a pesquisa
+        }
+
+        private void Frm_fasedificil_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

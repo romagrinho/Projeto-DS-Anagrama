@@ -6,7 +6,8 @@ namespace anagrama.DAO
     {
         public static MySqlConnection Build()
         {
-            return new MySqlConnection("Server=localhost;Database=Anagrama;Uid=root;Pwd=root");
+            string connectionString = "Server=localhost;Database=Anagrama;Uid=root;Pwd=root;";
+            return new MySqlConnection(connectionString);
         }
     }
 }
