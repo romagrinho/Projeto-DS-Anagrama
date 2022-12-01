@@ -3,6 +3,7 @@ using System;
 using System.Diagnostics;
 using System.Linq;
 using System.Windows.Forms;
+using anagrama.DTO;
 
 namespace anagrama
 {
@@ -11,6 +12,9 @@ namespace anagrama
     {
         private PalavraDAO dao;       
         int counter = 0;
+        int tempo = 0;
+        int minuto = 0;
+        int segundo = 0;
 
         public frm_fasemedio()
         {
@@ -20,8 +24,12 @@ namespace anagrama
         }
         private void frm_fasemedio_Load(object sender, EventArgs e)
         {
-            
+            tempo = 120;
+            minuto = tempo / 60;
+            segundo = tempo % 60;
+            lbl_Cronometro.Text = "0" + minuto + ":" + segundo;
         }
+
         private void Btn_pause_Click(object sender, EventArgs e)
         {
             frm_pause frmpause = new frm_pause();
@@ -95,18 +103,36 @@ namespace anagrama
                     && lblRomano.Text == "ROMANO" && lblAdora.Text == "ADORA" && lblRamo.Text == "RAMO")
             {
                 frm_proxnivel frm_Proxnivel = new frm_proxnivel();
+                PlayerDTO player = PlayerDAO.playerCatcher();
+                PlayerDAO.playerUpdate(player, tempo);
                 frm_Proxnivel.Show();
             }
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-            
-        }
+   
 
         private void lblContador_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void tmrCronometro_Tick(object sender, EventArgs e)
+        {
+            segundo--;
+            if (minuto > 0)
+            {
+                if (segundo < 0)
+                {
+                    segundo = 59;
+                    minuto--;
+                }
+            }
+            lbl_Cronometro.Text = "0" + minuto + ":" + segundo;
+
+            if (minuto == 0 && segundo == 0)
+            {
+                tmrCronometro.Enabled = false;
+            }
         }
     }
 }

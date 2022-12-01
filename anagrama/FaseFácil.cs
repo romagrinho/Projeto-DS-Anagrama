@@ -3,6 +3,7 @@ using System;
 using System.Diagnostics;
 using System.Linq;
 using System.Windows.Forms;
+using anagrama.DTO;
 
 
 namespace anagrama
@@ -70,6 +71,8 @@ namespace anagrama
                     && lblCanal.Text == "CANAL" && lblCanela.Text == "CANELA" && lblCela.Text == "CELA")
             {
                 frm_proxnivel frm_Proxnivel = new frm_proxnivel();
+                PlayerDTO player = PlayerDAO.playerCatcher();
+                PlayerDAO.playerUpdate(player, tempo);
                 frm_Proxnivel.Show();
             }
 

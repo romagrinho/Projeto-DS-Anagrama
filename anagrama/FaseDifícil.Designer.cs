@@ -62,6 +62,7 @@
             this.btn_pause = new System.Windows.Forms.Button();
             this.lbl_Cronometro = new System.Windows.Forms.Label();
             this.lblContador = new System.Windows.Forms.Label();
+            this.tmrCronometro = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // txt_letra1
@@ -396,9 +397,9 @@
             this.lbl_nivel.ForeColor = System.Drawing.Color.Lime;
             this.lbl_nivel.Location = new System.Drawing.Point(35, 29);
             this.lbl_nivel.Name = "lbl_nivel";
-            this.lbl_nivel.Size = new System.Drawing.Size(279, 63);
+            this.lbl_nivel.Size = new System.Drawing.Size(335, 63);
             this.lbl_nivel.TabIndex = 56;
-            this.lbl_nivel.Text = "anagrama!";
+            this.lbl_nivel.Text = "{anagrama!}";
             // 
             // label3
             // 
@@ -460,6 +461,12 @@
             this.lblContador.Size = new System.Drawing.Size(244, 21);
             this.lblContador.TabIndex = 70;
             this.lblContador.Text = "Palavras descobertas: ZERO";
+            // 
+            // tmrCronometro
+            // 
+            this.tmrCronometro.Enabled = true;
+            this.tmrCronometro.Interval = 1000;
+            this.tmrCronometro.Tick += new System.EventHandler(this.tmrCronometro_Tick);
             // 
             // frm_fasedificil
             // 
@@ -541,5 +548,6 @@
         private System.Windows.Forms.Button btn_pause;
         private System.Windows.Forms.Label lbl_Cronometro;
         private System.Windows.Forms.Label lblContador;
+        private System.Windows.Forms.Timer tmrCronometro;
     }
 }

@@ -291,7 +291,8 @@
             // tmrCronometro
             // 
             this.tmrCronometro.Enabled = true;
-            this.tmrCronometro.Tick += new System.EventHandler(this.timer1_Tick);
+            this.tmrCronometro.Interval = 1000;
+            this.tmrCronometro.Tick += new System.EventHandler(this.tmrCronometro_Tick);
             // 
             // btn_pause
             // 
@@ -350,9 +351,9 @@
             this.lbl_nivel.ForeColor = System.Drawing.Color.Lime;
             this.lbl_nivel.Location = new System.Drawing.Point(28, 33);
             this.lbl_nivel.Name = "lbl_nivel";
-            this.lbl_nivel.Size = new System.Drawing.Size(279, 63);
+            this.lbl_nivel.Size = new System.Drawing.Size(335, 63);
             this.lbl_nivel.TabIndex = 63;
-            this.lbl_nivel.Text = "anagrama!";
+            this.lbl_nivel.Text = "{anagrama!}";
             // 
             // lbl_Cronometro
             // 

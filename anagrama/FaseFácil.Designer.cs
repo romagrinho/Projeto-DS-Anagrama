@@ -59,9 +59,9 @@
             this.lbl_nivel.ForeColor = System.Drawing.Color.Lime;
             this.lbl_nivel.Location = new System.Drawing.Point(45, 27);
             this.lbl_nivel.Name = "lbl_nivel";
-            this.lbl_nivel.Size = new System.Drawing.Size(279, 63);
+            this.lbl_nivel.Size = new System.Drawing.Size(335, 63);
             this.lbl_nivel.TabIndex = 0;
-            this.lbl_nivel.Text = "anagrama!";
+            this.lbl_nivel.Text = "{anagrama!}";
             // 
             // lblAcne
             // 

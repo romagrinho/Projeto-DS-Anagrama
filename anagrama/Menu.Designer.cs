@@ -36,6 +36,9 @@
             this.btn_sair = new System.Windows.Forms.Button();
             this.lbl_dificuldade = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.btnRanking = new System.Windows.Forms.Button();
+            this.txtxPlayerNome = new System.Windows.Forms.TextBox();
+            this.lblNome = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btn_start
@@ -47,7 +50,7 @@
             this.btn_start.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_start.Font = new System.Drawing.Font("Cascadia Code SemiLight", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_start.ForeColor = System.Drawing.Color.Lime;
-            this.btn_start.Location = new System.Drawing.Point(570, 124);
+            this.btn_start.Location = new System.Drawing.Point(570, 114);
             this.btn_start.Name = "btn_start";
             this.btn_start.Size = new System.Drawing.Size(351, 59);
             this.btn_start.TabIndex = 2;
@@ -58,16 +61,17 @@
             // cmb_dificuldades
             // 
             this.cmb_dificuldades.AllowDrop = true;
-            this.cmb_dificuldades.BackColor = System.Drawing.Color.Lime;
+            this.cmb_dificuldades.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.cmb_dificuldades.DisplayMember = "Fácil";
             this.cmb_dificuldades.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmb_dificuldades.Font = new System.Drawing.Font("Cascadia Code", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmb_dificuldades.ForeColor = System.Drawing.Color.Lime;
             this.cmb_dificuldades.FormattingEnabled = true;
             this.cmb_dificuldades.Items.AddRange(new object[] {
             "Fácil",
             "Médio",
             "Difícil"});
-            this.cmb_dificuldades.Location = new System.Drawing.Point(570, 206);
+            this.cmb_dificuldades.Location = new System.Drawing.Point(515, 384);
             this.cmb_dificuldades.Name = "cmb_dificuldades";
             this.cmb_dificuldades.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.cmb_dificuldades.Size = new System.Drawing.Size(351, 43);
@@ -85,13 +89,13 @@
             // 
             this.lblTitle.AutoSize = true;
             this.lblTitle.BackColor = System.Drawing.Color.Transparent;
-            this.lblTitle.Font = new System.Drawing.Font("Cascadia Code SemiBold", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTitle.Font = new System.Drawing.Font("Cascadia Code SemiLight", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.ForeColor = System.Drawing.Color.Lime;
-            this.lblTitle.Location = new System.Drawing.Point(12, 161);
+            this.lblTitle.Location = new System.Drawing.Point(31, 180);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(110, 127);
+            this.lblTitle.Size = new System.Drawing.Size(75, 85);
             this.lblTitle.TabIndex = 1;
-            this.lblTitle.Text = "a";
+            this.lblTitle.Text = "{";
             // 
             // btn_sair
             // 
@@ -102,7 +106,7 @@
             this.btn_sair.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_sair.Font = new System.Drawing.Font("Cascadia Code SemiLight", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_sair.ForeColor = System.Drawing.Color.Lime;
-            this.btn_sair.Location = new System.Drawing.Point(570, 269);
+            this.btn_sair.Location = new System.Drawing.Point(570, 274);
             this.btn_sair.Name = "btn_sair";
             this.btn_sair.Size = new System.Drawing.Size(351, 59);
             this.btn_sair.TabIndex = 6;
@@ -133,6 +137,46 @@
     "\'25rQyBh\'25rQyBP4Mth\'25rQyBP4Mth\'25rQyP4Mth\'25rQyBP4Mth\'25rQyBP4Mth\'25rQyBP4Mth\'" +
     "25rQyBBP4Mth\'25rQyB";
             // 
+            // btnRanking
+            // 
+            this.btnRanking.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(24)))), ((int)(((byte)(24)))));
+            this.btnRanking.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.btnRanking.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Lime;
+            this.btnRanking.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
+            this.btnRanking.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnRanking.Font = new System.Drawing.Font("Cascadia Code SemiLight", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRanking.ForeColor = System.Drawing.Color.Lime;
+            this.btnRanking.Location = new System.Drawing.Point(570, 194);
+            this.btnRanking.Name = "btnRanking";
+            this.btnRanking.Size = new System.Drawing.Size(351, 59);
+            this.btnRanking.TabIndex = 44;
+            this.btnRanking.Text = "Ranking";
+            this.btnRanking.UseVisualStyleBackColor = false;
+            this.btnRanking.Click += new System.EventHandler(this.btnRanking_Click);
+            // 
+            // txtxPlayerNome
+            // 
+            this.txtxPlayerNome.BackColor = System.Drawing.SystemColors.InfoText;
+            this.txtxPlayerNome.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtxPlayerNome.Font = new System.Drawing.Font("Cascadia Code", 24.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtxPlayerNome.ForeColor = System.Drawing.Color.Lime;
+            this.txtxPlayerNome.Location = new System.Drawing.Point(128, 384);
+            this.txtxPlayerNome.Name = "txtxPlayerNome";
+            this.txtxPlayerNome.Size = new System.Drawing.Size(356, 39);
+            this.txtxPlayerNome.TabIndex = 45;
+            this.txtxPlayerNome.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtxPlayerNome.TextChanged += new System.EventHandler(this.txtxPlayerNome_TextChanged);
+            // 
+            // lblNome
+            // 
+            this.lblNome.AutoSize = true;
+            this.lblNome.ForeColor = System.Drawing.Color.Lime;
+            this.lblNome.Location = new System.Drawing.Point(128, 365);
+            this.lblNome.Name = "lblNome";
+            this.lblNome.Size = new System.Drawing.Size(35, 13);
+            this.lblNome.TabIndex = 46;
+            this.lblNome.Text = "Nome";
+            // 
             // frm_menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -140,6 +184,9 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(24)))), ((int)(((byte)(24)))));
             this.ClientSize = new System.Drawing.Size(1005, 474);
             this.ControlBox = false;
+            this.Controls.Add(this.lblNome);
+            this.Controls.Add(this.txtxPlayerNome);
+            this.Controls.Add(this.btnRanking);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lbl_dificuldade);
             this.Controls.Add(this.btn_sair);
@@ -147,7 +194,9 @@
             this.Controls.Add(this.btn_start);
             this.Controls.Add(this.lblTitle);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frm_menu";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Anagrama";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -162,6 +211,9 @@
         private System.Windows.Forms.Label lbl_dificuldade;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Timer timerTitle;
+        private System.Windows.Forms.Button btnRanking;
+        private System.Windows.Forms.TextBox txtxPlayerNome;
+        private System.Windows.Forms.Label lblNome;
     }
 }
 
