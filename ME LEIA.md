@@ -9,4 +9,6 @@ avisos uteis 👇👇
 
 3 - ainda é necessário teste com essa versão, tô sem o banco de dados então não pude testar, porém, se houver algum erro, não acredito que seja lá muito grave.
 
+4 - no caso de ser necessário buscar a outra versão, sem essas novas alterações, deixei a mais antiga na branch backup, por precaução.
+
 só isso, espero que a ângela adore, tamo junto queridos.
