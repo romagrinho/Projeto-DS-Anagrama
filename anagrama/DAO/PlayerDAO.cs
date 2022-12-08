@@ -36,7 +36,7 @@ namespace anagrama.DAO
         public static PlayerDTO currentPlayerCatcher()
         {
             var conexao = ConnectionFactory.Build();
-            string query = "SELECT * FROM player ORDER BY ID DESC LIMIT 1";
+            string query = "SELECT * FROM player ORDER BY ID ASC LIMIT 1";
 
             MySqlCommand command = new MySqlCommand(query, conexao);
             conexao.Open();
@@ -60,7 +60,7 @@ namespace anagrama.DAO
             var conexao = ConnectionFactory.Build();
             conexao.Open();
 
-            var query = "SELECT*FROM player ORDER BY tempo DESC LIMIT 5";
+            var query = "SELECT*FROM player ORDER BY tempo ASC LIMIT 5";
 
             var comando = new MySqlCommand(query, conexao);
 
