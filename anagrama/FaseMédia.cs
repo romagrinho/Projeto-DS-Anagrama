@@ -103,7 +103,7 @@ namespace anagrama
                     && lblRomano.Text == "ROMANO" && lblAdora.Text == "ADORA" && lblRamo.Text == "RAMO")
             {
                 frm_proxnivel frm_Proxnivel = new frm_proxnivel();
-                PlayerDTO player = PlayerDAO.playerCatcher();
+                PlayerDTO player = PlayerDAO.currentPlayerCatcher();
                 PlayerDAO.playerUpdate(player, tempo);
                 frm_Proxnivel.Show();
             }

@@ -71,7 +71,7 @@ namespace anagrama
                     && lblCanal.Text == "CANAL" && lblCanela.Text == "CANELA" && lblCela.Text == "CELA")
             {
                 frm_proxnivel frm_Proxnivel = new frm_proxnivel();
-                PlayerDTO player = PlayerDAO.playerCatcher();
+                PlayerDTO player = PlayerDAO.currentPlayerCatcher();
                 PlayerDAO.playerUpdate(player, tempo);
                 frm_Proxnivel.Show();
             }

@@ -110,7 +110,7 @@ namespace anagrama
                    && lblCha.Text == "CHÁ" && lblOca.Text == "OCA" && lblOco.Text == "OCO")
             {
                 frm_proxnivel frm_Proxnivel = new frm_proxnivel();
-                PlayerDTO player = PlayerDAO.playerCatcher();
+                PlayerDTO player = PlayerDAO.currentPlayerCatcher();
                 PlayerDAO.playerUpdate(player, tempo);
                 frm_Proxnivel.Show();
             }

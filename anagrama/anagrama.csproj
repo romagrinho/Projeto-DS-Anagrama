@@ -92,8 +92,8 @@
     </Compile>
     <Compile Include="DAO\ConnectionFactory.cs" />
     <Compile Include="DAO\PalavraDAO.cs" />
-    <Compile Include="DTO\PalavraDTO.cs" />
     <Compile Include="DAO\PlayerDAO.cs" />
+    <Compile Include="DTO\PalavraDTO.cs" />
     <Compile Include="DTO\PlayerDTO.cs" />
     <Compile Include="Esgotado.cs">
       <SubType>Form</SubType>
